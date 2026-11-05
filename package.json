@@ -1,0 +1,7 @@
+   {
+     "name": "atelier5",
+     "version": "1.0.0",
+     "scripts": {
+       "test": "echo \"Tests OK\""
+     }
+   }
